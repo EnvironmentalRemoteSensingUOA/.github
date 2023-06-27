@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+This the code repository for the Environmental Remote Sensing group.
+
 <!--
 
 **Here are some ideas to get you started:**
